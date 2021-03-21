@@ -6,7 +6,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class locators {
+public class Locators {
 
     // Задание 1. Разницы между записью локатора нет
 
